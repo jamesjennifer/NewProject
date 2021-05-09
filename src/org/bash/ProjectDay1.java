@@ -6,5 +6,7 @@ public static void main(String[] args) {
 	System.out.println(S);	
 	String f="james";
 			System.out.println(f);
+			int a=20;
+			System.out.println(a);
 }
 }
