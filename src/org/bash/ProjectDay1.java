@@ -13,6 +13,8 @@ public static void main(String[] args) {
 			System.out.println(b);
 			float n=87;
 			System.out.println(n);
+			String AB="Trying again";
+			System.out.println(AB);
 }
 }
 
